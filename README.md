@@ -113,7 +113,7 @@ Antoine ANCELIN - ancelin.ant@gmail.com - [linktr.ee/antancelin](https://www.lin
 [![linkedin-shield]][linkedin-url]
 
 
-Project Link: [https://github.com/antancelin/NumberGuesser](https://github.com/antancelin/NumberGuesser_Codecademy)
+Project Link: [https://github.com/antancelin/NumberGuesser_Codecademy](https://github.com/antancelin/NumberGuesser_Codecademy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
